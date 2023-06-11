@@ -1,1 +1,3 @@
-# QR_generator
+# QR_Generator
+
+The QR Generator website is a user-friendly platform that allows you to generate QR codes quickly and easily. With a simple and intuitive interface, you can input any text, URL, or other data, and instantly generate a custom QR code. The website is built using HTML and JavaScript, leveraging the power of an API to handle the QR code generation process. The API takes the user's input and dynamically generates a QR code image, which is then displayed on the website for the user to download or share. Whether you need to create QR codes for marketing campaigns, product packaging, or personal use, the QR Generator website provides a seamless and efficient solution.
